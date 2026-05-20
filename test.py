@@ -1,1 +1,1 @@
-titest
+print("test")
